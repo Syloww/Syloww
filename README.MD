@@ -7,7 +7,7 @@
 <h1>JE MAITRISE : </h1>
 <p align="left">
   <a href="https://github.com/Syloww">
-    <img src="https://skillicons.dev/icons?i=vscode,pr,pr,ps,ai,robloxstudio,figma,github" />
+    <img src="https://skillicons.dev/icons?i=vscode,pr,pr,ps,ai,wordpress,robloxstudio,figma,github" />
   </a>
 </p>
 
