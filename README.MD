@@ -1,5 +1,5 @@
 <h1>Moi</h1>
-<p>"Je m'appelle Salim, j'ai 18 ans et je suis passionné de code depuis mes années de lycée, j'ai pu développer mes compétences via mes spécialités telles que numérique science et informatique (NSI), puis mes compétences en développement web avec un BUT en Métier du Multimédia et de l'Internet."</p>
+<p>"Je suis Salim un passionné de code, j'ai pu développer mes compétences via mes spécialités telles que numérique science et informatique (NSI), puis mes compétences en développement web avec un BUT en Métier du Multimédia et de l'Internet."</p>
 
 <h1>JE CODE EN...</h1>
 <p align="left">
