@@ -1,5 +1,4 @@
-<h1>Moi</h1>
-<p>"Je suis Salim un passionné de code, j'ai pu développer mes compétences via mes spécialités telles que numérique science et informatique (NSI), puis mes compétences en développement web avec un BUT en Métier du Multimédia et de l'Internet."</p>
+<p>I am Salim, passionate about coding, I was able to develop my skills through my specialties such as digital science and computer science (NSI), then my skills in web development with a BUT in Multimedia and Internet Profession.</p>
 
 <h1>JE CODE EN...</h1>
 <p align="left">
