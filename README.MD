@@ -6,7 +6,7 @@
     <img src="https://skillicons.dev/icons?i=css,html,js,py,php" />
   </a>
   <a href="https://github.com/Syloww">
-    <img src="https://skillicons.dev/icons?i=vscode,pr,ps,ai,wordpress,robloxstudio,figma,github" />
+    <img src="https://skillicons.dev/icons?i=vscode,wordpress,robloxstudio,figma" />
   </a>
 </p>
 
