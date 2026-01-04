@@ -1,11 +1,6 @@
-<h2>👋 Hi, I'm a passionate developer</h2>
 
-<p>
-I enjoy building projects, learning new technologies, and turning ideas into clean, functional code.
-I focus on performance, clarity, and continuous improvement.
-</p>
 
-<h2>🚀 Skills & Tools</h2>
+<h2>Skills & Tools</h2>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,php" />
