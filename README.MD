@@ -1,11 +1,25 @@
-<p>Passionate about coding...</p>
+<h2>👋 Hi, I'm a passionate developer</h2>
 
-<h1>skills acquired:</h1>
-<p align="left">
-  <a href="https://github.com/Syloww">
-    <img src="https://skillicons.dev/icons?i=css,html,js,py,php" />
-  </a>
-  <a href="https://github.com/Syloww">
-    <img src="https://skillicons.dev/icons?i=vscode,wordpress,robloxstudio" />
-  </a>
+<p>
+I enjoy building projects, learning new technologies, and turning ideas into clean, functional code.
+I focus on performance, clarity, and continuous improvement.
 </p>
+
+<h2>🚀 Skills & Tools</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,php" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,wordpress,robloxstudio" />
+</p>
+
+<h2>📌 What I like to work on</h2>
+
+<ul>
+  <li>Web development & interfaces</li>
+  <li>Game scripting (Roblox)</li>
+  <li>Optimization & clean code</li>
+  <li>Creative and technical projects</li>
+</ul>
