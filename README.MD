@@ -5,4 +5,4 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,wordpress,robloxstudio" />
 </p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Syloww)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Syloww&theme=tokyonight)
