@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,php" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,php,Luau" />
 </p>
 
 <p align="left">
